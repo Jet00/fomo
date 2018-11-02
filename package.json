@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/vidhyav656/fomominers/issues"
   },
-  "homepage": "https://github.com/vidhyav656/fomominers#readme",
+  "homepage": "https://github.com/vidhyav656/fomominers",
   "devDependencies": {
     "R2": "^1.4.3",
     "grunt": "^0.4.5",
