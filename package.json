@@ -1,5 +1,5 @@
 {
-  "name": "fomominers",
+  "name": "fomo",
   "version": "1.0.0",
   "description": "fomominers",
   "main": "Gruntfile.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/vidhyav656/fomominers.git"
   },
-  "author": "",
+  "author": "vidhya",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vidhyav656/fomominers/issues"
@@ -68,5 +68,11 @@
     "hoek": ">=4.2.1",
     "lodash": ">=4.17.5",
     "cryptiles": ">=4.1.2"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [
+    "fomominers"
+  ]
 }
